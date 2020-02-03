@@ -1,0 +1,23 @@
+{
+  "name": "prettier-config",
+  "version": "1.0.0",
+  "description": "Prettier config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"release": "release-it"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gothmagog/prettier-config.git"
+  },
+  "author": "Michael Bechard <michael.bechard@hilton.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gothmagog/prettier-config/issues"
+  },
+  "homepage": "https://github.com/Gothmagog/prettier-config#readme",
+  "devDependencies": {
+    "release-it": "^12.4.3"
+  }
+}
